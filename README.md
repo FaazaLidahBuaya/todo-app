@@ -6,7 +6,7 @@ Aplikasi To-Do List sederhana untuk membantu mengelola tugas harian.
 
 Coba aplikasinya secara langsung:
 
-👉 https://username.github.io/todo-list/
+👉 https://faazalidahbuaya.github.io/todo-app/
 
 ## ✨ Fitur
 
